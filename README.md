@@ -1,2 +1,4 @@
 # Sketch-Library-FontAwesome-5
-Sketch Library Font Awesome 5.15
+
+Updated library of Font Awesome 5.15.3 for Sketch
+
